@@ -25,4 +25,4 @@ Este proyecto resuelve la problemática del envío manual repetitivo, reduciendo
 4. Ejecutar `main.py` e ingresar las credenciales de aplicación de Google.
 
 ---
-*Desarrollado por [Rocío Livingston](https://www.linkedin.com/in/rociolivingston/)*
+Desarrollado por [Rocío Livingston](https://www.linkedin.com/in/rociolivingston/)
